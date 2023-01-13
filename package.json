@@ -23,7 +23,6 @@
     "vite": "^3.1.8"
   },
   "dependencies": {
-    "@adeora/solid-query": "^0.9.0",
     "@solidjs/meta": "^0.28.2",
     "@solidjs/router": "^0.6.0",
     "@tailwindcss/typography": "^0.5.9",
@@ -37,7 +36,6 @@
     "solid-start": "^0.2.11",
     "solid-start-trpc": "^0.0.16",
     "solid-trpc": "^0.1.0-ssr.1",
-    "solidstart-17": "file:",
     "undici": "5.11.0",
     "zod": "^3.19.1"
   },
